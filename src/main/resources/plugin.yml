@@ -1,0 +1,5 @@
+name: ArmagidonAPI
+version: ${project.version}
+main: ru.armagidon.armagidonapi.ArmagidonAPI
+api-version: 1.16
+description: API for my plugins
